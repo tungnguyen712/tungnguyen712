@@ -1,8 +1,8 @@
 # Tung Nguyen
 
-**CS @ Pomona College · GPA 4.0 · May 2028**
+**CS @ Pomona College · May 2028**
 
-I build AI systems that ship to real users — agentic apps, LLM pipelines, full-stack products. Currently doing RL research at Pomona's robotics lab and looking for summer 2026 internships.
+I build AI systems that ship to real users — agentic apps, LLM pipelines, full-stack products. Currently doing RL research at Pomona's robotics lab and looking for summer/fall 2026 internships.
 
 [Portfolio](https://tungnguyenwork.vercel.app) · [LinkedIn](https://linkedin.com/in/tunggdnguyen) · [Email](mailto:tungdnguyenwork@gmail.com)
 
