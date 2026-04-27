@@ -12,7 +12,7 @@ I build AI systems that ship to real users — agentic apps, LLM pipelines, full
  
 | Project | What it does | Stack |
 |---|---|---|
-| [**AlphaFolio**](https://alpha-folio.vercel.app/) | 6-node LangGraph multi-agent pipeline across tiered Claude models (Opus/Sonnet/Haiku) — produces equity research memos with bull/base/bear scenarios, deterministic validation gate, and supply chain mapping from 6 parallel data sources | Python, LangGraph, FastAPI, Next.js, Claude API, AWS ECS |
+| [**AlphaFolio**](https://alpha-folio.vercel.app/) | 6-node LangGraph multi-agent pipeline across tiered Claude models (Opus/Sonnet/Haiku) — produces equity research memos with bull/base/bear scenarios, deterministic validation gate, and supply chain mapping from 6 parallel data sources | Python, LangGraph, FastAPI, Next.js, Claude API, AWS ECS, LangSmith |
 | [**Stage**](https://devpost.com/software/stage-uw07ol) | 🏆 Best Use of Gemini API, HackDartmouth XI · Natural language → interactive 3D room layout with real purchasable furniture matched via Gemini Vision | TypeScript, React, Three.js, Gemini |
 | [**AccessiblePath**](https://accessible-path.vercel.app) | Agentic navigation app — Gemini Live API streams live camera + mic, scores route friction LOW/MEDIUM/HIGH, and autonomously reroutes on demand | React, FastAPI, Gemini Live API, Google Maps |
 | [**RL Indoor Navigation**](https://github.com/tungnguyen712/RL-Indoor-Navigation) | PPO agent trained 20M+ timesteps on curriculum mazes (7×7 → 9×9) — 80% success rate vs 20% reactive baseline after full redesign from first principles | Python, PyTorch, PyBullet, Stable-Baselines3 |
@@ -42,7 +42,7 @@ MiniLM + PGVector semantic search over 50K+ resources at sub-300ms, 10K+ concurr
  
 **Languages:** Python · Java · TypeScript · JavaScript · C++ · SQL
  
-**AI / ML:** PyTorch · LangGraph · Claude API · Gemini API (Live, Vision) · OpenAI API · LoRA · Hugging Face · RAG · Embeddings · PPO · Stable-Baselines3
+**AI / ML:** PyTorch · LangGraph · LangSmith · LoRA · Hugging Face · RAG · Embeddings · PPO · Stable-Baselines3
  
 **Backend:** FastAPI · Spring Boot · Express.js · PostgreSQL · Redis · Celery · WebSockets · Docker
  
